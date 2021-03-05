@@ -1,5 +1,5 @@
 # RGB-Game
-It is RGB color guessing game (Mini project implementation)
+It is RGB color guessing game 
 # Details about RGB color game
 There are two modes in the game ie. EASY or HARD. 
 1. Everytime the user refresh the webpage. Six random colored circles would be appeared on the screen.
